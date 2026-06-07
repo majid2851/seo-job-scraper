@@ -37,12 +37,11 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Android Developer Kotlin remote",
-    "Android Engineer kotlin remote" 
-    "Mobile Application Developer remote",
-    "Mobile Software Engineer remote", 
-    "Node.js Backend Developer remote",    
-    "Kotlin Multiplatform Developer remote", 
+    "Android Developer remote",
+    "Android Engineer remote",
+    "Senior Android Developer remote",
+    "Senior Android Engineer remote",
+    "Kotlin Developer remote",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
@@ -50,12 +49,9 @@ BLACKLIST_KEYWORDS = [
     "us residents only",
     "must reside in us",
     "must be located in the us",
-    "must be based in",
-    "senior",
+    "must be based in", 
     "director",
-    "agency",
-    "full stack",
-    "fullstack",
+    "agency", 
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
